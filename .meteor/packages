@@ -8,4 +8,7 @@ insecure
 coffeescript
 iron:router
 autopublish
+meteorhacks:npm
 
+
+npm-container
